@@ -1,0 +1,22 @@
+.footer {
+    position: absolute;
+    width: 100%;
+    height: 270px;
+    top: 3459px;
+    text-align: center;
+    background: #6CB9AA;
+    font-style: normal;
+    font-size: small;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #352166;
+}
+.footer a{
+    text-decoration: none;
+    text-decoration-style: none;
+    list-style: none;
+    margin-left: 20px;
+}
+

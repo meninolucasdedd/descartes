@@ -1,0 +1,39 @@
+.Navegador-menu {
+    width: 100%;
+    height: 40px;
+    left: 0px;
+    top: 74px;
+    background: #EDCB59;   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-style: normal;
+    font-size: 18px;
+    color: #352166;
+}
+.Navegador-menu .ul{
+    list-style: none;
+    list-style-type: none; 
+    text-decoration: none;
+    display: flex;
+}
+.Navegador-menu a{
+    list-style: none;
+    list-style-type: none; 
+    text-decoration: none;
+    color: #D6692B;
+    font-weight: 500;
+}
+.p1 li{
+    margin-left: 20px;
+}
+.p2 a {
+    margin-left: 20px;
+    margin-right: 60px;
+}
+.Navegador-menu a:hover {
+    background:  #f1d168;
+    padding: 9px;
+}
+
+

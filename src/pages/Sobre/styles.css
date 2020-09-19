@@ -1,0 +1,29 @@
+.pagina2 {
+    position: absolute;
+    left: 11%;
+    width: 80%;
+    height: 598px;
+    top: 850px;
+    display: flex;
+    justify-content: space-between;
+    color: #D6692B;
+    font-size: 13px;
+    align-items: center;
+}
+
+.pagina2 h3 {
+    color: #352166;
+}
+.pagina2 a{
+    text-decoration-style: none;
+    text-decoration: none;
+    list-style: none;
+    color:#D6692B ;
+}
+.texto-pagina2 {
+    margin-right: 20px;
+}
+.texto-pagina2 img {
+    width: 40px;
+    height: 40px;
+}
